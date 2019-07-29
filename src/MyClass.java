@@ -13,6 +13,6 @@ public class MyClass {
         System.out.println(name1);
         System.out.println(GiaTri);
         */
-
+        int a = 20;
     }
 }
