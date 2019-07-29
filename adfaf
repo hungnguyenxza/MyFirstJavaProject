@@ -1,0 +1,30 @@
+[33mcommit fa96b5332111d296bdf3127165d772d6b03865ad[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Thu Xinh <thunguyen94.bg@gmail.com>
+Date:   Mon Jul 29 22:25:57 2019 +0700
+
+    Khoi tao bien
+
+[33mcommit 59afd75ded7232b55268bc19c154a5fbbc5d6f88[m
+Author: Thu Xinh <thunguyen94.bg@gmail.com>
+Date:   Mon Jul 29 22:24:55 2019 +0700
+
+    update git ignore
+
+[33mcommit a460c69091f380577261e4563044f0e3bc653719[m
+Merge: 78be870 cdbf854
+Author: Hung Nguyen Xuan <hungnx@pixelz.com>
+Date:   Mon Jul 29 21:54:56 2019 +0700
+
+    Merge branch 'master' of https://github.com/nguyenxuanhung96/MyFirstJavaProject
+
+[33mcommit 78be8703a59c731c48320542b97195cba8d348d2[m
+Author: Hung Nguyen Xuan <hungnx@pixelz.com>
+Date:   Mon Jul 29 21:52:47 2019 +0700
+
+    Init project
+
+[33mcommit cdbf854803366bbb257e52db075a7498a609ffb2[m
+Author: nguyenxuanhung96 <nguyenxuan.hung96@gmail.com>
+Date:   Mon Jul 29 21:51:05 2019 +0700
+
+    Initial commit
